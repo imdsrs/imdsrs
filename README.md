@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @imdsrs
 - 👀 I’m interested in Web Dev and Integration Technologies. 
-- 🌱 I’m currently learning full-stack web development. 
-- 💞️ I’m looking to collaborate on Java, JS, Django, React, Oracle eCommerce (ATG)
+- 🌱 I’m a full-stack web developer with 6 years of professional experience. 
+- 💞️ I’m looking to collaborate on Django, Python, React, Java, JS, Oracle eCommerce (ATG)
 - 📫 Ping me on twitter @imdsrs or [LinkedIn]: https://www.linkedin.com/in/imdsrs
 
 <!---
